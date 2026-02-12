@@ -31,6 +31,7 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 15px 40px;
+  gap: 20px;
   background: var(--nav-bg);
   color: var(--nav-text);
   transition: background 0.3s ease;
